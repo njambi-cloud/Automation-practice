@@ -1,0 +1,16 @@
+{
+  "name": "subscribe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "cypress run",
+    "cypress": "cypress open"
+  },
+  "author": "",
+  "license": "ISC"
+}
