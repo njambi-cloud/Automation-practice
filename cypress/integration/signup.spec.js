@@ -28,7 +28,7 @@ describe('Create Account', () => {
         
     })
 
-    it.only('Registers a valid email', () => {
+    it('Registers a valid email', () => {
         successfulEmail();
  
 
